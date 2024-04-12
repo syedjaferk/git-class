@@ -1,0 +1,62 @@
+1. How Software been developed before 70's ?
+	1. Process 1 2 3 
+	2. Demerits - from actual dev's in 70's
+	
+2. Expectation of a tool ?
+	1. Multiple people to simultaneously work on a single project
+	2. ....
+	3. ....
+	4. ....
+3. Evolution of Version Control System
+	1. Gen 1 - SCSS , RCS
+	2. Gen 2 - Networking
+	3. Gen 3 - Server Repository
+4. BitKeeper - Properiarty Tool
+	Story of Linux, Andrew and Larry
+	Birth of GIT
+
+5. Git Installation
+	1. https://git-scm.com/book/en/v2/Getting-Started-Installing-Git
+
+6. Git Initial Configuration:
+	Local:
+		git config user.name "Syed Jafer"
+		git config user.email contact.syedjafer@gmail.com
+	Global:
+		git config --global user.name "Syed Jafer"
+		git config --global user.email contact.syedjafer@gmail.com
+
+7. Git init
+8. Git Branch - Default Branch
+9. Create a file -> 3 stages of GIT file -> modified, staged, commited
+	https://serengetitech.com/tech/three-states-of-git-and-three-sections-of-a-git-project/
+10. git commit (amend, -m , -a)
+11. git status -> Those 3 stages
+12. git log - (-p, --stat, --graph, --oneline)
+13. Create new branch and show the changes in the files. between branches.
+13. git reset ( --hard --soft)
+14. git merge
+15. git rebase
+16. git branch
+17. git tag
+18. Explain repository Concept. 
+19. git push 
+	origin main - git push -u origin main 
+20. git pull
+21. git diff
+
+
+Git Vs Git Platforms:
+====================
+
+Github
+Gitlab
+Azure Devops
+
+Projects:
+=========
+
+
+
+
+
